@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+C:\cygwin\home\chris\workspaces\android\.metadata\.plugins\org.eclipse.jdt.core
+1940864673.index
+161862756.index
+2086391460.index
+559670790.index
+3438990737.index

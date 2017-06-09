@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="app_name">The Game of Life</string><string name="hello">Hello World!</string><string name="toggle_text">Toggle Button</string>
+    <string name="speed_slow">1x</string>
+    <string name="speed_normal">2x</string>
+    
+    <string name="speed_fast">5x</string>
+    <string name="step_button">Step</string>
+
+</resources>
